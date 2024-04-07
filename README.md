@@ -1,1 +1,1 @@
-# JS-TS
+# JavaScript, TypeScipt, and etc.
